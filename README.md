@@ -18,3 +18,7 @@ Visualisation fluide de la séquence optimale de mouvements pour résoudre le ta
 Le projet est divisé en deux modules principaux :
 interface.py : Gère toute la partie graphique, les interactions utilisateur, l'affichage du plateau sur un Canvas, et le déclenchement des animations.
 puzzle.py : Contient la logique mathématique du jeu, la gestion des voisins, le calcul de l'heuristique, le test de solubilité et l'algorithme A*.
+
+## 📺 Démonstration vidéo
+Regardez une démonstration de l'exécution du programme ici :
+👉 [Lien vers la vidéo de démonstration](https://youtu.be/hjY_DBGRSmY)
